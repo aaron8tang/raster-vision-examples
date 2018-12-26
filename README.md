@@ -45,6 +45,7 @@ This will mount the following directories:
 - `potsdam` -> `/opt/src/potsdam`
 - `xview` -> `/opt/src/xview`
 - `cowc` -> `/opt/src/cowc`
+- `other` -> `/opt/src/other` (This directory is useful for holding Git repos containing examples you want to use with this Docker container.)
 
 ### "Developer Mode"
 
